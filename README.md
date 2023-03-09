@@ -1,5 +1,6 @@
 # django-todo
 A simple todo app built with django
+All the rights of app belongs to @shreys7 and is used for learning dev-ops operations only.
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
